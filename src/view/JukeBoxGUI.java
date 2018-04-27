@@ -3,7 +3,7 @@
  * Date: Oct 9, 2016
  * Compiler: compiled using javac 
  * File Name: JukeboxGUI.java
- * Description:
+ * Description: A gui for the jukebox
  */
 package view;
 
