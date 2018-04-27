@@ -1,5 +1,5 @@
 /**
- * @author: Nick Reppe
+ * @author: Justin Benge
  * Date: Oct 9, 2016
  * Compiler: compiled using javac 
  * File Name: JukeboxGUI.java
